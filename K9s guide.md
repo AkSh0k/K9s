@@ -54,7 +54,7 @@ sudo mv kubectl /usr/local/bin/
 kubectl version --client
 ```
 
-![[CleanShot 2025-12-18 at 12.34.44@2x.png]]
+![](CleanShot 2025-12-18 at 12.34.44@2x.png)
 ### Установка и настройка Minikube
 ```bash
 curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
