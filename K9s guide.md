@@ -30,7 +30,7 @@ sudo dnf update -y
 sudo dnf install -y curl tar podman slirp4netns fuse-overlayfs conntrack socat
 ```
 
-!()[CleanShot 2025-12-18 at 12.32.12@2x.png]
+!()[1.png]
 ### Установка `kubectl`
 #### Проверка — вдруг уже установлен
 ```bash
